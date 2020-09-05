@@ -167,7 +167,7 @@ pry(main)> potluck.add_dish(cocktail_meatballs)
 pry(main)> potluck.add_dish(candy_salad)
 #=> [#<Dish:0x00007f942191e9b8...>, #<Dish:0x00007f9421d26880...>, #<Dish:0x00007f9421e26800...>, #<Dish:0x00007f9421dAA770...>, #<Dish:0x00007f9421dAA610...>]
 
-pry(main)> potluck.add_dish(bean_dip)
+pry(main)> c
 #=> [#<Dish:0x00007f942191e9b8...>, #<Dish:0x00007f9421d26880...>, #<Dish:0x00007f9421e26800...>, #<Dish:0x00007f9421dAA770...>, #<Dish:0x00007f9421dAA610...>, #<Dish:0x00007f9421dAA680...>]
 
 pry(main)> potluck.menu
